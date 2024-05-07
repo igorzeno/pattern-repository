@@ -9,6 +9,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class ProductRepository extends BaseRepository
 {
+    // test init
     public function __construct(Product $model)
     {
         parent:: __construct($model);
