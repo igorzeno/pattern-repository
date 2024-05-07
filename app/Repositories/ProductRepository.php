@@ -12,6 +12,8 @@ class ProductRepository extends BaseRepository
     // test init
     // test init 2
     // test init 4
+    // test init 4
+    // test init 4
     public function __construct(Product $model)
     {
         parent:: __construct($model);
